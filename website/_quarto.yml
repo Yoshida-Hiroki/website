@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Hiroki Yoshida"
+  site-url: "https://hirokiyoshida.com"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+
+    right:
+      - icon: envelope
+        href: mailto:hiroki@hirokiyoshida.com
+
+format:
+  html:
+    theme: cosmo
+    toc: false
