@@ -42,6 +42,3 @@ title: "Talks"
 ### 2022
 
 - **“導体極限における電気分極のジャンプと表面電荷の振る舞い”** — Physical Society of Japan 2022 Autumn Meeting, Tokyo, Japan, Sept. 12.
-
-<!-- This is intentionally a selected list rather than every poster in the full record.
-     Add a collapsible "Complete presentation record" later if desired. -->

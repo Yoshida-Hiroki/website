@@ -14,8 +14,5 @@ I study quantum-geometric and symmetry-protected phenomena in topological and al
 
 **Research interests:** quantum geometry · nonlinear transport · topological phases · altermagnetism · magnetoelastic phenomena
 
-[Research](research.qmd) · [Publications](publications.qmd) · [CV](cv.qmd) · [Email](mailto:hiroki@hirokiyoshida.com)
+[Research](research.qmd) · [Publications](publications.qmd) · [CV](cv.qmd) · [Contact](contact.qmd)
 
-<!-- TODO: Add ORCID / Google Scholar / GitHub links once the preferred public URLs are fixed. -->
-<!-- TODO: If desired, add one short line for the current postdoctoral affiliation. -->
-:::

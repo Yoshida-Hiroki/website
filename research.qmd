@@ -25,6 +25,3 @@ I also work on coupled magnetic and elastic excitations in ferromagnetic thin fi
 
 ::: {#refs}
 :::
-
-<!-- TODO: Consider adding one schematic figure per major research direction.
-     Keep this page conceptual; detailed derivations are better left to papers/preprints. -->
