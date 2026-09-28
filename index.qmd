@@ -1,0 +1,17 @@
+---
+title: "Hiroki Yoshida"
+---
+
+## Physicist
+
+I am a physicist working on ...
+
+### Research interests
+
+- ...
+- ...
+- ...
+
+### Contact
+
+Email: [hiroki@hirokiyoshida.com](mailto:hiroki@hirokiyoshida.com)
