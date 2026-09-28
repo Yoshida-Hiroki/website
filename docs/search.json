@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hiroki Yoshida",
-    "section": "",
-    "text": "I am a physicist working on …\n\n\n\n…\n…\n…\n\n\n\n\nEmail: hiroki@hirokiyoshida.com"
-  },
-  {
-    "objectID": "index.html#physicist",
-    "href": "index.html#physicist",
-    "title": "Hiroki Yoshida",
-    "section": "",
-    "text": "I am a physicist working on …\n\n\n\n…\n…\n…\n\n\n\n\nEmail: hiroki@hirokiyoshida.com"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -26,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hiroki Yoshida",
+    "section": "",
+    "text": "I am a physicist working on …\n\n\n\n…\n…\n…\n\n\n\n\nEmail: hiroki@hirokiyoshida.com"
+  },
+  {
+    "objectID": "index.html#physicist",
+    "href": "index.html#physicist",
+    "title": "Hiroki Yoshida",
+    "section": "",
+    "text": "I am a physicist working on …\n\n\n\n…\n…\n…\n\n\n\n\nEmail: hiroki@hirokiyoshida.com"
   }
 ]
