@@ -1,0 +1,23 @@
+---
+title: "Contact"
+toc: false
+---
+
+## Email
+
+[hiroki@hirokiyoshida.com](mailto:hiroki@hirokiyoshida.com)
+
+## Academic profiles
+
+- [ORCID](https://orcid.org/0000-0002-4505-047X)
+- [Google Scholar](https://scholar.google.li/citations?user=XsNsDIwAAAAJ&hl=ja&oi=sra)
+- [GitHub](https://github.com/Yoshida-Hiroki)
+- [researchmap](https://researchmap.jp/hiroki_yoshida)
+
+## Affiliation
+Department of Applied Physics  
+Graduate School of Engineering  
+The University of Tokyo  
+7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan
+
+For research inquiries, collaboration, or seminar invitations, please contact me by email.

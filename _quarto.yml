@@ -5,7 +5,6 @@ project:
 website:
   title: "Hiroki Yoshida"
   site-url: "https://hirokiyoshida.com"
-
   navbar:
     left:
       - href: index.qmd
@@ -14,14 +13,27 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: talks.qmd
+        text: Talks
       - href: cv.qmd
         text: CV
-
+      - href: contact.qmd
+        text: Contact
     right:
       - icon: envelope
-        href: mailto:hiroki@hirokiyoshida.com
+        href: "mailto:hiroki@hirokiyoshida.com"
+  page-footer:
+    center: "© 2026 Hiroki Yoshida"
+
+bibliography: publications.bib
+csl: aps-web.csl
 
 format:
   html:
     theme: cosmo
-    toc: false
+    css: styles.css
+    toc: true
+    anchor-sections: true
+    smooth-scroll: true
+    link-citations: true
+    link-bibliography: true

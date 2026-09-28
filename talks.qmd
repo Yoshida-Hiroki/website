@@ -1,0 +1,47 @@
+---
+title: "Talks"
+---
+
+## Invited seminars
+
+- **“交替磁性ワイル半金属のトポロジー”** — Topological Condensed Matter Seminar, Osaka University, Japan, Nov. 27, 2025.
+- **“Symmetry and topology of altermagnetic Weyl semimetals: quantization of spin circular photogalvanic effect”** — ST-group seminar, Nagoya University, Japan, Feb. 26, 2025.
+- **“2次元 Weyl 半金属極限における電気分極とシフト電流”** — Department of Applied Physics seminar, Tokyo University of Science, Japan, Oct. 17, 2024.
+
+## Selected contributed presentations
+
+### 2026
+
+- **“Emergent-Gravity Hall Effect from quantum geometry”** — APS Global Physics Summit 2026, Denver, CO, USA, Mar. 19.
+- **“Theory of Magneto-elastic coupling in a ferromagnetic thin film mediated by dipolar interaction”** — APS Global Physics Summit 2026, Denver, CO, USA, Mar. 18.
+- **“量子幾何による創発重力ホール効果”** — Physical Society of Japan 2026 Spring Meeting, online, Mar. 23.
+- **“量子幾何に由来する光誘起磁化”** — Physical Society of Japan 2026 Spring Meeting, online, Mar. 26.
+- **“Emergent-Gravity Hall Effect from quantum geometry”** — IAS-APS Physical Review Workshop on Frontiers in Quantum Geometry and Correlation, HKUST, Hong Kong, Aug. 19. *(Poster)*
+- **“Magnetoelastic Waves in Ferromagnetic Thin Films Mediated by Dipolar Interactions”** — SPICE workshop *Elastically Driven Phases and Dynamics in Quantum Materials*, Ingelheim, Germany, Sept. 1. *(Poster)*
+
+### 2025
+
+- **“Pure spin bulk photovoltaic effect in Altermagnets”** — APS Global Physics Summit, Anaheim, USA, Mar. 17.
+- **“Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals”** — International Workshop on Spintronics, San Cristobal, Galapagos, Ecuador, May 27 & 29. *(Poster; Gold Poster Award)*
+- **“交替磁性ワイル半金属におけるスピン円偏光ガルバノ効果の量子化”** — Physical Society of Japan 80th Annual Meeting, Hiroshima, Japan, Sept. 19.
+- **“Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals”** — Chimera International Conference 2025, San Sebastian, Spain, Sept. 30. *(Poster)*
+- **“Emergent-gravity Hall effect from quantum geometry”** — ISSP International Workshop *Quantum Transport Frontiers of Mesoscopic Physics*, Kashiwa, Japan, Oct. 21. *(Poster)*
+
+### 2024
+
+- **“Shift current responses of a two-dimensional system approaching the Weyl semimetal phase”** — 2024 American Physical Society March Meeting, Minneapolis, USA, Mar. 4.
+- **“2次元 Weyl 半金属極限におけるシフト電流応答の発散”** — Physical Society of Japan 79th Annual Meeting, Hokkaido, Japan, Sept. 16.
+- **“Pure spin shift current generations in Altermagnets”** — KiPAS International Workshop on Recent Advances in Orbitronics and Spintronics, Yokohama, Japan, Nov. 13. *(Poster)*
+- **“Quantization of Spin Circular Photogalvanic Effect in Altermagnetic Weyl Semimetals”** — ISSP *New Trends in Condensed Matter Theory*, Kashiwa, Japan, Dec. 10. *(Poster)*
+
+### 2023
+
+- **“Polarization jumps across Weyl semimetal phase in two-dimensional materials”** — 2023 American Physical Society March Meeting, Las Vegas, USA, Mar. 8.
+- **“二次元トポロジカル相転移における電気分極のジャンプ”** — Physical Society of Japan 78th Annual Meeting, Miyagi, Japan, Sept. 19.
+
+### 2022
+
+- **“導体極限における電気分極のジャンプと表面電荷の振る舞い”** — Physical Society of Japan 2022 Autumn Meeting, Tokyo, Japan, Sept. 12.
+
+<!-- This is intentionally a selected list rather than every poster in the full record.
+     Add a collapsible "Complete presentation record" later if desired. -->

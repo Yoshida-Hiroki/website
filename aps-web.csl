@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl"
+       version="1.0"
+       class="in-text"
+       default-locale="en-US">
+  <info>
+    <title>Hiroki Yoshida APS-style Web Bibliography</title>
+    <id>https://hirokiyoshida.com/csl/aps-web</id>
+    <link href="https://hirokiyoshida.com/csl/aps-web" rel="self"/>
+    <updated>2026-09-28T00:00:00+00:00</updated>
+  </info>
+
+  <macro name="author">
+    <names variable="author">
+      <name initialize-with=". "
+            name-as-sort-order="none"
+            and="text"
+            delimiter=", "
+            delimiter-precedes-last="contextual"/>
+    </names>
+  </macro>
+
+  <macro name="publication">
+    <choose>
+      <if type="article-journal">
+        <group>
+          <group delimiter=" ">
+            <text variable="container-title" form="short" font-style="italic"/>
+            <text variable="volume" font-weight="bold"/>
+          </group>
+          <text variable="page" prefix=", "/>
+          <date variable="issued" prefix=" (" suffix=")">
+            <date-part name="year"/>
+          </date>
+        </group>
+      </if>
+      <else>
+        <group>
+          <text variable="publisher"/>
+          <text variable="note" prefix=", "/>
+          <date variable="issued" prefix=" (" suffix=")">
+            <date-part name="year"/>
+          </date>
+        </group>
+      </else>
+    </choose>
+  </macro>
+
+  <citation collapse="citation-number">
+    <layout prefix="[" suffix="]" delimiter=", ">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+
+  <bibliography second-field-align="flush"
+                entry-spacing="0"
+                line-spacing="1">
+    <layout>
+      <text variable="citation-number" suffix="."/>
+      <group delimiter=" ">
+        <text macro="author" suffix=","/>
+        <text variable="title" quotes="true" suffix=","/>
+        <text macro="publication"/>
+      </group>
+    </layout>
+  </bibliography>
+</style>

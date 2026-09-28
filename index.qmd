@@ -1,17 +1,21 @@
 ---
-title: "Hiroki Yoshida"
+pagetitle: "Hiroki Yoshida | Theoretical Condensed Matter Physics"
+description: "Personal academic website of Hiroki Yoshida, a theoretical condensed matter physicist."
+toc: false
+page-layout: full
 ---
 
-## Physicist
+::: {.hero}
+# Hiroki Yoshida （吉田　拓暉）
 
-I am a physicist working on ...
+## Theoretical condensed matter physicist
 
-### Research interests
+I study quantum-geometric and symmetry-protected phenomena in topological and altermagnetic systems. My research focuses on nonlinear transport, Berry-phase effects, and quantization mechanisms in Weyl semimetals, using tight-binding modeling and symmetry-based analysis.
 
-- ...
-- ...
-- ...
+**Research interests:** quantum geometry · nonlinear transport · topological phases · altermagnetism · magnetoelastic phenomena
 
-### Contact
+[Research](research.qmd) · [Publications](publications.qmd) · [CV](cv.qmd) · [Email](mailto:hiroki@hirokiyoshida.com)
 
-Email: [hiroki@hirokiyoshida.com](mailto:hiroki@hirokiyoshida.com)
+<!-- TODO: Add ORCID / Google Scholar / GitHub links once the preferred public URLs are fixed. -->
+<!-- TODO: If desired, add one short line for the current postdoctoral affiliation. -->
+:::
