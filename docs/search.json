@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research is in theoretical condensed matter physics, with an emphasis on quantum geometry, topology, symmetry, and nonlinear response phenomena. I mainly use tight-binding models and symmetry-based analysis to identify robust transport and optical effects."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hiroki Yoshida （吉田　拓暉）",
-    "section": "",
-    "text": "I study quantum-geometric and symmetry-protected phenomena in topological and altermagnetic systems. My research focuses on nonlinear transport, Berry-phase effects, and quantization mechanisms in Weyl semimetals, using tight-binding modeling and symmetry-based analysis.\nResearch interests: quantum geometry · nonlinear transport · topological phases · altermagnetism · magnetoelastic phenomena\nResearch · Publications · CV · Email"
-  },
-  {
-    "objectID": "index.html#physicist",
-    "href": "index.html#physicist",
-    "title": "Hiroki Yoshida",
-    "section": "",
-    "text": "I am a physicist working on …\n\n\n\n…\n…\n…\n\n\n\n\nEmail: hiroki@hirokiyoshida.com"
-  },
-  {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
@@ -77,6 +49,13 @@
     "text": "Once the content is confirmed, add: - one professional photograph (optional), - one schematic/research figure per main research direction, - a downloadable PDF CV, - DOI links to publications, - ORCID / Google Scholar / GitHub icons."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hiroki Yoshida （吉田　拓暉）",
+    "section": "",
+    "text": "I study quantum-geometric and symmetry-protected phenomena in topological and altermagnetic systems. My research focuses on nonlinear transport, Berry-phase effects, and quantization mechanisms in Weyl semimetals, using tight-binding modeling and symmetry-based analysis.\nResearch interests: quantum geometry · nonlinear transport · topological phases · altermagnetism · magnetoelastic phenomena\nResearch · Publications · CV · Email"
+  },
+  {
     "objectID": "index.html#theoretical-condensed-matter-physicist",
     "href": "index.html#theoretical-condensed-matter-physicist",
     "title": "Hiroki Yoshida （吉田　拓暉）",
@@ -110,6 +89,20 @@
     "title": "Contact",
     "section": "Affiliation",
     "text": "Affiliation\nDepartment of Applied Physics\nGraduate School of Engineering\nThe University of Tokyo\n7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan\nFor research inquiries, collaboration, or seminar invitations, please contact me by email."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "東京大学特別研究員"
+  },
+  {
+    "objectID": "cv.html#position",
+    "href": "cv.html#position",
+    "title": "CV",
+    "section": "",
+    "text": "東京大学特別研究員"
   },
   {
     "objectID": "cv.html#education",
@@ -168,25 +161,11 @@
     "text": "1. H. Yoshida and T. Yokoyama, “Emergent-gravity hall effect from quantum geometry,” arXiv:2507.18458, Under review (2025)\n\n\n2. H. Yoshida, J. Priessnitz, L. Šmejkal, and S. Murakami, “Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals,” Phys. Rev. Lett. 136, 096701 (2026)\n\n\n3. H. Yoshida and T. Yokoyama, “Light-induced magnetization by quantum geometry,” Phys. Rev. B 114, 094430 (2026)\n\n\n4. H. Yoshida, R. Kono, M. Fujimoto, M. Asano, D. Hatanaka, K. Yamamoto, and S. Murakami, “Magnetoelastic waves in ferromagnetic thin films mediated by dipolar interactions,” Jpn. J. Appl. Phys. 65, 110903 (2026)\n\n\n5. H. Yoshida and S. Murakami, “Diverging shift current responses in the gapless limit of two-dimensional systems,” Phys. Rev. B 111, 155402 (2025)\n\n\n6. H. Yoshida, T. Zhang, and S. Murakami, “Polarization jumps across topological phase transitions in two-dimensional systems,” Phys. Rev. B 108, 075160 (2023)\n\n\n7. H. Yoshida, T. Zhang, and S. Murakami, “Polarization jumps by breaking symmetries of two-dimensional Weyl semimetals,” Phys. Rev. B 107, 035122 (2023)\n\n\n8. H. Yoshida and K. Takahashi, “Dynamical Lee–Yang zeros for continuous-time and discrete-time stochastic processes,” Phys. Rev. E 105, 024133 (2022)"
   },
   {
-    "objectID": "publications.html#preprint-under-review",
-    "href": "publications.html#preprint-under-review",
-    "title": "Publications",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Hiroki Yoshida and Takehito Yokoyama,\n“Emergent-gravity Hall effect from quantum geometry,”\nunder review, arXiv:2507.18458 (2025)."
-  },
-  {
-    "objectID": "publications.html#peer-reviewed-articles",
-    "href": "publications.html#peer-reviewed-articles",
-    "title": "Publications",
-    "section": "Peer-reviewed articles",
-    "text": "Peer-reviewed articles\n\nHiroki Yoshida, Jan Priessnitz, Libor Šmejkal, and Shuichi Murakami,\n“Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals,”\nPhys. Rev. Lett. 136, 096701 (2026).\nHiroki Yoshida and Takehito Yokoyama,\n“Light-induced Magnetization by Quantum Geometry,”\nPhys. Rev. B 114, 094430 (2026).\nHiroki Yoshida, Ryohei Kono, Manato Fujimoto, Motoki Asano, Daiki Hatanaka, Kei Yamamoto, and Shuichi Murakami,\n“Magnetoelastic Waves in Ferromagnetic Thin Films Mediated by Dipolar Interactions,”\nJpn. J. Appl. Phys. 65, 110903 (2026).\nHiroki Yoshida and Shuichi Murakami,\n“Diverging shift current responses in the gapless limit of two-dimensional systems,”\nPhys. Rev. B 111, 155402 (2025).\nHiroki Yoshida, Tiantian Zhang, and Shuichi Murakami,\n“Polarization jumps across topological phase transitions in two-dimensional systems,”\nPhys. Rev. B 108, 075160 (2023).\nHiroki Yoshida, Tiantian Zhang, and Shuichi Murakami,\n“Polarization jumps by breaking symmetries of two-dimensional Weyl semimetals,”\nPhys. Rev. B 107, 035122 (2023).\nHiroki Yoshida and Kazutaka Takahashi,\n“Dynamical Lee-Yang zeros for continuous-time and discrete-time stochastic processes,”\nPhys. Rev. E 105, 024133 (2022)."
-  },
-  {
-    "objectID": "publications.html#bibtex",
-    "href": "publications.html#bibtex",
-    "title": "Publications",
-    "section": "BibTeX",
-    "text": "BibTeX\nA machine-readable bibliography is available in publications.bib."
+    "text": "My research is in theoretical condensed matter physics, with an emphasis on quantum geometry, topology, symmetry, and nonlinear response phenomena. I mainly use tight-binding models and symmetry-based analysis to identify robust transport and optical effects."
   },
   {
     "objectID": "research.html#quantum-geometry-and-nonlinear-responses",
@@ -203,11 +182,11 @@
     "text": "Altermagnets and spin photovoltaic effects\nA major recent direction is nonlinear spin transport in altermagnetic systems. In particular, I developed a theoretical framework for a quantized spin-current analogue of the circular photogalvanic effect in altermagnetic Weyl semimetals, combining symmetry classification with tight-binding modeling [4]."
   },
   {
-    "objectID": "research.html#topological-polarization-phenomena",
-    "href": "research.html#topological-polarization-phenomena",
+    "objectID": "research.html#two-dimensional-weyl-semimetal-limits",
+    "href": "research.html#two-dimensional-weyl-semimetal-limits",
     "title": "Research",
-    "section": "Topological polarization phenomena",
-    "text": "Topological polarization phenomena\nI have studied discontinuous changes of electric polarization around topological phase transitions in two-dimensional systems, including symmetry breaking in two-dimensional Weyl semimetals [5] and polarization jumps across topological phase transitions [6]."
+    "section": "Two-dimensional Weyl semimetal limits",
+    "text": "Two-dimensional Weyl semimetal limits\nI have studied discontinuous changes of electric polarization around topological phase transitions in two-dimensional systems, including symmetry breaking in two-dimensional Weyl semimetals [5] and polarization jumps across topological phase transitions [6]."
   },
   {
     "objectID": "research.html#magnetoelastic-waves",
@@ -217,59 +196,10 @@
     "text": "Magnetoelastic waves\nI also work on coupled magnetic and elastic excitations in ferromagnetic thin films, including magnetoelastic waves mediated by dipolar interactions [7]."
   },
   {
-    "objectID": "research.html#earlier-work",
-    "href": "research.html#earlier-work",
-    "title": "Research",
-    "section": "Earlier work",
-    "text": "Earlier work\nMy earlier research includes dynamical Lee–Yang zeros in continuous-time and discrete-time stochastic processes [8]."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "東京大学特別研究員"
-  },
-  {
-    "objectID": "cv.html#position",
-    "href": "cv.html#position",
-    "title": "CV",
-    "section": "",
-    "text": "東京大学特別研究員"
-  },
-  {
     "objectID": "research.html#references",
     "href": "research.html#references",
     "title": "Research",
     "section": "References",
     "text": "References\n\n\n1. H. Yoshida and S. Murakami, “Diverging shift current responses in the gapless limit of two-dimensional systems,” Phys. Rev. B 111, 155402 (2025)\n\n\n2. H. Yoshida and T. Yokoyama, “Emergent-gravity hall effect from quantum geometry,” arXiv:2507.18458, Under review (2025)\n\n\n3. H. Yoshida and T. Yokoyama, “Light-induced magnetization by quantum geometry,” Phys. Rev. B 114, 094430 (2026)\n\n\n4. H. Yoshida, J. Priessnitz, L. Šmejkal, and S. Murakami, “Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals,” Phys. Rev. Lett. 136, 096701 (2026)\n\n\n5. H. Yoshida, T. Zhang, and S. Murakami, “Polarization jumps by breaking symmetries of two-dimensional Weyl semimetals,” Phys. Rev. B 107, 035122 (2023)\n\n\n6. H. Yoshida, T. Zhang, and S. Murakami, “Polarization jumps across topological phase transitions in two-dimensional systems,” Phys. Rev. B 108, 075160 (2023)\n\n\n7. H. Yoshida, R. Kono, M. Fujimoto, M. Asano, D. Hatanaka, K. Yamamoto, and S. Murakami, “Magnetoelastic waves in ferromagnetic thin films mediated by dipolar interactions,” Jpn. J. Appl. Phys. 65, 110903 (2026)"
-  },
-  {
-    "objectID": "research.html#two",
-    "href": "research.html#two",
-    "title": "Research",
-    "section": "Two",
-    "text": "Two\nI have studied discontinuous changes of electric polarization around topological phase transitions in two-dimensional systems, including symmetry breaking in two-dimensional Weyl semimetals [5] and polarization jumps across topological phase transitions [6]."
-  },
-  {
-    "objectID": "research.html#two-dimensional-weyl-limit",
-    "href": "research.html#two-dimensional-weyl-limit",
-    "title": "Research",
-    "section": "Two-dimensional Weyl limit",
-    "text": "Two-dimensional Weyl limit\nI have studied discontinuous changes of electric polarization around topological phase transitions in two-dimensional systems, including symmetry breaking in two-dimensional Weyl semimetals [5] and polarization jumps across topological phase transitions [6]."
-  },
-  {
-    "objectID": "research.html#two-dimensional-weyl-semimetal-limit",
-    "href": "research.html#two-dimensional-weyl-semimetal-limit",
-    "title": "Research",
-    "section": "Two-dimensional Weyl semimetal limit",
-    "text": "Two-dimensional Weyl semimetal limit\nI have studied discontinuous changes of electric polarization around topological phase transitions in two-dimensional systems, including symmetry breaking in two-dimensional Weyl semimetals [5] and polarization jumps across topological phase transitions [6]."
-  },
-  {
-    "objectID": "research.html#two-dimensional-weyl-semimetal-limits",
-    "href": "research.html#two-dimensional-weyl-semimetal-limits",
-    "title": "Research",
-    "section": "Two-dimensional Weyl semimetal limits",
-    "text": "Two-dimensional Weyl semimetal limits\nI have studied discontinuous changes of electric polarization around topological phase transitions in two-dimensional systems, including symmetry breaking in two-dimensional Weyl semimetals [5] and polarization jumps across topological phase transitions [6]."
   }
 ]
