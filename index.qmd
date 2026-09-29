@@ -27,3 +27,7 @@ I study quantum-geometric and symmetry-protected phenomena in topological and al
 ![](figures/MyFace.JPG){fig-alt="Hiroki Yoshida"}
 :::
 ::::
+
+<div class="last-updated">
+Last updated: September 29, 2026
+</div>

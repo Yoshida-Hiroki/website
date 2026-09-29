@@ -26,9 +26,6 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
-    right:
-      - icon: envelope
-        href: "mailto:hiroki@hirokiyoshida.com"
   page-footer:
     center: "© 2026 Hiroki Yoshida"
 
