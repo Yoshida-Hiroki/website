@@ -95,6 +95,35 @@ div.csl-indent {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -165,7 +194,7 @@ div.csl-indent {
   <ul>
   <li><a href="#altermagnets-and-optical-effects" id="toc-altermagnets-and-optical-effects" class="nav-link active" data-scroll-target="#altermagnets-and-optical-effects">Altermagnets and optical effects</a></li>
   <li><a href="#weyl-semimetals" id="toc-weyl-semimetals" class="nav-link" data-scroll-target="#weyl-semimetals">Weyl semimetals</a></li>
-  <li><a href="#quantum-geometry-and-nonlinear-responses" id="toc-quantum-geometry-and-nonlinear-responses" class="nav-link" data-scroll-target="#quantum-geometry-and-nonlinear-responses">Quantum geometry and nonlinear responses</a></li>
+  <li><a href="#quantum-geometry" id="toc-quantum-geometry" class="nav-link" data-scroll-target="#quantum-geometry">Quantum geometry</a></li>
   <li><a href="#magnetoelastic-waves" id="toc-magnetoelastic-waves" class="nav-link" data-scroll-target="#magnetoelastic-waves">Magnetoelastic waves</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
@@ -193,25 +222,34 @@ div.csl-indent {
 </header>
 
 
-<p>My research is in theoretical condensed matter physics, with an emphasis on quantum geometry, topology, symmetry, and nonlinear response phenomena. I mainly use tight-binding models and symmetry-based analysis to identify robust transport and optical effects.</p>
+<p>My research focuses on theoretical condensed matter physics, particularly the roles of quantum geometry, topology, and symmetry in transport and optical phenomena. I use tight-binding models, symmetry analysis, and semiclassical theory to explore these phenomena, with a particular interest in nonlinear responses.</p>
 <section id="altermagnets-and-optical-effects" class="level2">
 <h2 class="anchored" data-anchor-id="altermagnets-and-optical-effects">Altermagnets and optical effects</h2>
-<p>My research explores distinctive optical responses in altermagnets, with a particular focus on nonlinear spin transport. By combining symmetry-based analysis with tight-binding models, I demonstrate that Weyl altermagnets can realize a quantized spin-current counterpart of the circular photogalvanic effect—a hallmark of conventional Weyl semimetals <span class="citation" data-cites="yoshida2026quantization">[<a href="#ref-yoshida2026quantization" role="doc-biblioref">1</a>]</span>.</p>
+<p>I investigate optical responses in altermagnets, with a focus on light-induced spin currents. Combining symmetry analysis with tight-binding models, my collaborators and I predict a spin-current analog of the quantized circular photogalvanic effect in altermagnetic Weyl semimetals. We identify symmetry conditions that allow this quantized response, providing a route to generating pure spin currents with circularly polarized light <span class="citation" data-cites="yoshida2026quantization">[<a href="#ref-yoshida2026quantization" role="doc-biblioref">1</a>]</span>.</p>
 <div class="research-figure">
-<p><embed src="./figures/AM_schematics_3.pdf" class="img-fluid"></p>
+<p><img src="./figures/AM_schematics_3.svg" class="img-fluid" alt="Schematic of the spin circular photogalvanic effect in an altermagnetic Weyl semimetal."></p>
 </div>
 </section>
 <section id="weyl-semimetals" class="level2">
 <h2 class="anchored" data-anchor-id="weyl-semimetals">Weyl semimetals</h2>
-<p>I have studied discontinuous jumps of electric polarization across the two-dimensional Weyl semimetal limit. The size of the jump can be expressed by concise formulas using “Weyl dipole” in normal insulator to normal insulator transitions <span class="citation" data-cites="yoshida2023breaking">[<a href="#ref-yoshida2023breaking" role="doc-biblioref">2</a>]</span> and across topological phase transitions <span class="citation" data-cites="yoshida2023topological">[<a href="#ref-yoshida2023topological" role="doc-biblioref">3</a>]</span>.</p>
+<p>I study discontinuities in electric polarization between insulating states on opposite sides of a two-dimensional Weyl semimetal limit. My collaborators and I show that polarization jumps between topologically trivial insulators can be expressed in terms of the “Weyl dipole,” which characterizes the distribution of Weyl nodes and their monopole charges in momentum space <span class="citation" data-cites="yoshida2023breaking">[<a href="#ref-yoshida2023breaking" role="doc-biblioref">2</a>]</span>. We extend this analysis to topological phase transitions: the Weyl-dipole description applies to transitions in which the <span class="math inline">\(\mathbb{Z}_2\)</span> invariant changes, whereas transitions that change the Chern number require a formulation involving Weyl-node positions relative to a reference point in momentum space <span class="citation" data-cites="yoshida2023topological">[<a href="#ref-yoshida2023topological" role="doc-biblioref">3</a>]</span>.</p>
+<div class="research-figure">
+<p><img src="./figures/jump.svg" class="img-fluid" alt="Illustration of polarization jumps across a two-dimensional Weyl semimetal phase."></p>
+</div>
 </section>
-<section id="quantum-geometry-and-nonlinear-responses" class="level2">
-<h2 class="anchored" data-anchor-id="quantum-geometry-and-nonlinear-responses">Quantum geometry and nonlinear responses</h2>
-<p>I study how geometric properties of Bloch states appear in measurable nonlinear responses. This includes the divergence of shift-current responses near a two-dimensional Weyl-semimetal limit <span class="citation" data-cites="yoshida2025diverging">[<a href="#ref-yoshida2025diverging" role="doc-biblioref">4</a>]</span>, the emergent-gravity Hall effect associated with quantum geometry <span class="citation" data-cites="yoshida2025emergent">[<a href="#ref-yoshida2025emergent" role="doc-biblioref">5</a>]</span>, and light-induced magnetization generated by quantum-geometric effects <span class="citation" data-cites="yoshida2026light">[<a href="#ref-yoshida2026light" role="doc-biblioref">6</a>]</span>.</p>
+<section id="quantum-geometry" class="level2">
+<h2 class="anchored" data-anchor-id="quantum-geometry">Quantum geometry</h2>
+<p>I explore how the geometry of electronic states shapes transport phenomena. Semiclassical wave-packet theory provides an intuitive framework for connecting this geometry to electron motion. By incorporating leading nonadiabatic corrections, my collaborator and I derive gravity-like terms in the equations of motion, described by Christoffel symbols constructed from the energy-weighted quantum metric. These terms can produce a transverse electrical response that we call the “emergent-gravity Hall effect” <span class="citation" data-cites="yoshida2025emergent">[<a href="#ref-yoshida2025emergent" role="doc-biblioref">4</a>]</span>.</p>
+<div class="research-figure">
+<p><img src="./figures/EOM.png" class="img-fluid" alt="Quantum-geometric contributions to the equations of motion of an electron wave packet."></p>
+</div>
 </section>
 <section id="magnetoelastic-waves" class="level2">
 <h2 class="anchored" data-anchor-id="magnetoelastic-waves">Magnetoelastic waves</h2>
-<p>I also work on coupled magnetic and elastic excitations in ferromagnetic thin films, including magnetoelastic waves mediated by dipolar interactions <span class="citation" data-cites="yoshida2026magnetoelastic">[<a href="#ref-yoshida2026magnetoelastic" role="doc-biblioref">7</a>]</span>.</p>
+<p>I also investigate coupled magnetic and elastic excitations in ferromagnetic thin films, focusing on magnetostatic waves—long-wavelength spin waves governed primarily by magnetic dipolar interactions. My collaborators and I develop a theoretical framework that accounts for how elastic deformations modify dipolar fields. This framework describes magnetoelastic coupling mediated by long-range dipolar interactions and predicts hybridization between magnetostatic waves and Lamb waves, the elastic modes of a thin plate <span class="citation" data-cites="yoshida2026magnetoelastic">[<a href="#ref-yoshida2026magnetoelastic" role="doc-biblioref">5</a>]</span>.</p>
+<div class="research-figure">
+<p><img src="./figures/MSEW.png" class="img-fluid" alt="Illustration of coupled magnetic and elastic waves in a ferromagnetic thin film."></p>
+</div>
 </section>
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
@@ -225,17 +263,11 @@ div.csl-indent {
 <div id="ref-yoshida2023topological" class="csl-entry" role="listitem">
 <div class="csl-left-margin">3. </div><div class="csl-right-inline">H. Yoshida, T. Zhang, and S. Murakami, <span>“<a href="https://doi.org/10.1103/PhysRevB.108.075160">Polarization jumps across topological phase transitions in two-dimensional systems</a>,”</span> <em>Phys. Rev. B</em> <strong>108</strong>, 075160 (2023)</div>
 </div>
-<div id="ref-yoshida2025diverging" class="csl-entry" role="listitem">
-<div class="csl-left-margin">4. </div><div class="csl-right-inline">H. Yoshida and S. Murakami, <span>“<a href="https://doi.org/10.1103/PhysRevB.111.155402">Diverging shift current responses in the gapless limit of two-dimensional systems</a>,”</span> <em>Phys. Rev. B</em> <strong>111</strong>, 155402 (2025)</div>
-</div>
 <div id="ref-yoshida2025emergent" class="csl-entry" role="listitem">
-<div class="csl-left-margin">5. </div><div class="csl-right-inline">H. Yoshida and T. Yokoyama, <span>“<a href="https://doi.org/10.48550/arXiv.2507.18458">Emergent-gravity hall effect from quantum geometry</a>,”</span> arXiv:2507.18458, Under review (2025)</div>
-</div>
-<div id="ref-yoshida2026light" class="csl-entry" role="listitem">
-<div class="csl-left-margin">6. </div><div class="csl-right-inline">H. Yoshida and T. Yokoyama, <span>“<a href="https://doi.org/10.1103/w2z4-wq53">Light-induced magnetization by quantum geometry</a>,”</span> <em>Phys. Rev. B</em> <strong>114</strong>, 094430 (2026)</div>
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">H. Yoshida and T. Yokoyama, <span>“<a href="https://doi.org/10.48550/arXiv.2507.18458">Emergent-gravity hall effect from quantum geometry</a>,”</span> arXiv:2507.18458, Under review (2025)</div>
 </div>
 <div id="ref-yoshida2026magnetoelastic" class="csl-entry" role="listitem">
-<div class="csl-left-margin">7. </div><div class="csl-right-inline">H. Yoshida, R. Kono, M. Fujimoto, M. Asano, D. Hatanaka, K. Yamamoto, and S. Murakami, <span>“<a href="https://doi.org/10.35848/1347-4065/ae7521">Magnetoelastic waves in ferromagnetic thin films mediated by dipolar interactions</a>,”</span> <em>Jpn. J. Appl. Phys.</em> <strong>65</strong>, 110903 (2026)</div>
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">H. Yoshida, R. Kono, M. Fujimoto, M. Asano, D. Hatanaka, K. Yamamoto, and S. Murakami, <span>“<a href="https://doi.org/10.35848/1347-4065/ae7521">Magnetoelastic waves in ferromagnetic thin films mediated by dipolar interactions</a>,”</span> <em>Jpn. J. Appl. Phys.</em> <strong>65</strong>, 110903 (2026)</div>
 </div>
 </div>
 

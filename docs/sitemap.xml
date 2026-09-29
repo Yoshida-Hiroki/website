@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hirokiyoshida.com/talks.html</loc>
-    <lastmod>2026-09-28T23:45:49.811Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hirokiyoshida.com/README_DRAFT.html</loc>
-    <lastmod>2026-09-28T06:44:54.243Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hirokiyoshida.com/index.html</loc>
-    <lastmod>2026-09-28T23:48:14.671Z</lastmod>
-  </url>
-  <url>
     <loc>https://hirokiyoshida.com/contact.html</loc>
     <lastmod>2026-09-28T23:56:19.854Z</lastmod>
   </url>
   <url>
-    <loc>https://hirokiyoshida.com/cv.html</loc>
-    <lastmod>2026-09-28T07:38:02.864Z</lastmod>
+    <loc>https://hirokiyoshida.com/talks.html</loc>
+    <lastmod>2026-09-29T05:19:46.912Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hirokiyoshida.com/research.html</loc>
+    <lastmod>2026-09-29T05:39:39.061Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hirokiyoshida.com/index.html</loc>
+    <lastmod>2026-09-29T05:45:58.234Z</lastmod>
   </url>
   <url>
     <loc>https://hirokiyoshida.com/publications.html</loc>
     <lastmod>2026-09-28T08:09:22.949Z</lastmod>
   </url>
   <url>
-    <loc>https://hirokiyoshida.com/research.html</loc>
-    <lastmod>2026-09-29T01:49:44.471Z</lastmod>
+    <loc>https://hirokiyoshida.com/cv.html</loc>
+    <lastmod>2026-09-29T05:40:25.553Z</lastmod>
   </url>
 </urlset>

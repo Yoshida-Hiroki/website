@@ -1,6 +1,13 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - research.qmd
+    - publications.qmd
+    - talks.qmd
+    - cv.qmd
+    - contact.qmd
 
 website:
   title: "Hiroki Yoshida"
@@ -30,6 +37,7 @@ csl: aps-web.csl
 
 format:
   html:
+    page-layout: article
     theme: cosmo
     css: styles.css
     toc: true

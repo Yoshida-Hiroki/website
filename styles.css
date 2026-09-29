@@ -1,23 +1,47 @@
 /* Minimal styling for a compact academic site. */
 
+html {
+  scrollbar-gutter: stable;
+}
+
+/* Reserve the same right-hand TOC column on every desktop page. */
+@media (min-width: 992px) {
+  #quarto-content.page-columns {
+    grid-template-columns:
+      [screen-start] minmax(1.5rem, 1fr)
+      [screen-start-inset page-start page-start-inset body-start-outset body-start body-content-start] minmax(0, 800px)
+      [body-content-end] 2rem
+      [body-end body-end-outset] 180px
+      [page-end-inset page-end screen-end-inset] minmax(1.5rem, 1fr)
+      [screen-end];
+  }
+}
+
 .hero {
-  max-width: 920px;
-  margin: 5vh auto 0 auto;
-  padding: 1rem 1.25rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 240px;
+  align-items: start;
+  gap: 2rem;
+  margin: 0;
 }
 
-.hero h1 {
-  margin-bottom: 0.25rem;
-}
-
-.hero h2 {
-  margin-top: 0;
+.hero-subtitle {
   font-size: 1.35rem;
   font-weight: 400;
 }
 
 .hero p {
   max-width: 780px;
+}
+
+.hero-portrait p {
+  margin: 0;
+}
+
+.hero-portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .navbar-brand {
@@ -30,19 +54,28 @@ main.content {
 
 @media (max-width: 768px) {
   .hero {
-    margin-top: 1rem;
-    padding: 0.5rem;
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .hero-portrait {
+    width: 300px;
+    max-width: 100%;
+    justify-self: center;
   }
 }
 
 .research-figure {
-  display: flex;
-  justify-content: center;
   margin: 1.5rem 0;
+}
+
+/* Quarto wraps Markdown images in a paragraph. Center the image itself. */
+.research-figure p {
+  margin: 0;
 }
 
 .research-figure img {
   display: block;
+  margin-inline: auto;
   max-width: 80%;
   max-height: 520px;
   width: auto;

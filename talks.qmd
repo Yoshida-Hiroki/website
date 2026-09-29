@@ -14,7 +14,7 @@ title: "Talks"
 
 ### 2026
 
-- **“Emergent-Gravity Hall Effect from quantum geometry”** — APS Global Physics Summit 2026, Denver, CO, USA, Mar. 19.
+- **“Emergent-Gravity Hall Effect from quantum geometry”** — APS Global Physics Summit 2026, Denver, CO, USA, Mar. 19. *(Poster)*
 - **“Theory of Magneto-elastic coupling in a ferromagnetic thin film mediated by dipolar interaction”** — APS Global Physics Summit 2026, Denver, CO, USA, Mar. 18.
 - **“量子幾何による創発重力ホール効果”** — Physical Society of Japan 2026 Spring Meeting, online, Mar. 23.
 - **“量子幾何に由来する光誘起磁化”** — Physical Society of Japan 2026 Spring Meeting, online, Mar. 26.

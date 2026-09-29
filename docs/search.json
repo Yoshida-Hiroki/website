@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "hiroki[at]hirokiyoshida.com"
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "hiroki[at]hirokiyoshida.com"
+  },
+  {
+    "objectID": "contact.html#academic-profiles",
+    "href": "contact.html#academic-profiles",
+    "title": "Contact",
+    "section": "Academic profiles",
+    "text": "Academic profiles\n\nORCID\nGoogle Scholar\nGitHub\nresearchmap"
+  },
+  {
+    "objectID": "contact.html#affiliation",
+    "href": "contact.html#affiliation",
+    "title": "Contact",
+    "section": "Affiliation",
+    "text": "Affiliation\nDepartment of Applied Physics\nGraduate School of Engineering\nThe University of Tokyo\n7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan\nFor research inquiries, collaboration, or seminar invitations, please contact me by email."
+  },
+  {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
@@ -18,77 +46,63 @@
     "href": "talks.html#selected-contributed-presentations",
     "title": "Talks",
     "section": "Selected contributed presentations",
-    "text": "Selected contributed presentations\n\n2026\n\n“Emergent-Gravity Hall Effect from quantum geometry” — APS Global Physics Summit 2026, Denver, CO, USA, Mar. 19.\n“Theory of Magneto-elastic coupling in a ferromagnetic thin film mediated by dipolar interaction” — APS Global Physics Summit 2026, Denver, CO, USA, Mar. 18.\n“量子幾何による創発重力ホール効果” — Physical Society of Japan 2026 Spring Meeting, online, Mar. 23.\n“量子幾何に由来する光誘起磁化” — Physical Society of Japan 2026 Spring Meeting, online, Mar. 26.\n“Emergent-Gravity Hall Effect from quantum geometry” — IAS-APS Physical Review Workshop on Frontiers in Quantum Geometry and Correlation, HKUST, Hong Kong, Aug. 19. (Poster)\n“Magnetoelastic Waves in Ferromagnetic Thin Films Mediated by Dipolar Interactions” — SPICE workshop Elastically Driven Phases and Dynamics in Quantum Materials, Ingelheim, Germany, Sept. 1. (Poster)\n\n\n\n2025\n\n“Pure spin bulk photovoltaic effect in Altermagnets” — APS Global Physics Summit, Anaheim, USA, Mar. 17.\n“Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals” — International Workshop on Spintronics, San Cristobal, Galapagos, Ecuador, May 27 & 29. (Poster; Gold Poster Award)\n“交替磁性ワイル半金属におけるスピン円偏光ガルバノ効果の量子化” — Physical Society of Japan 80th Annual Meeting, Hiroshima, Japan, Sept. 19.\n“Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals” — Chimera International Conference 2025, San Sebastian, Spain, Sept. 30. (Poster)\n“Emergent-gravity Hall effect from quantum geometry” — ISSP International Workshop Quantum Transport Frontiers of Mesoscopic Physics, Kashiwa, Japan, Oct. 21. (Poster)\n\n\n\n2024\n\n“Shift current responses of a two-dimensional system approaching the Weyl semimetal phase” — 2024 American Physical Society March Meeting, Minneapolis, USA, Mar. 4.\n“2次元 Weyl 半金属極限におけるシフト電流応答の発散” — Physical Society of Japan 79th Annual Meeting, Hokkaido, Japan, Sept. 16.\n“Pure spin shift current generations in Altermagnets” — KiPAS International Workshop on Recent Advances in Orbitronics and Spintronics, Yokohama, Japan, Nov. 13. (Poster)\n“Quantization of Spin Circular Photogalvanic Effect in Altermagnetic Weyl Semimetals” — ISSP New Trends in Condensed Matter Theory, Kashiwa, Japan, Dec. 10. (Poster)\n\n\n\n2023\n\n“Polarization jumps across Weyl semimetal phase in two-dimensional materials” — 2023 American Physical Society March Meeting, Las Vegas, USA, Mar. 8.\n“二次元トポロジカル相転移における電気分極のジャンプ” — Physical Society of Japan 78th Annual Meeting, Miyagi, Japan, Sept. 19.\n\n\n\n2022\n\n“導体極限における電気分極のジャンプと表面電荷の振る舞い” — Physical Society of Japan 2022 Autumn Meeting, Tokyo, Japan, Sept. 12."
+    "text": "Selected contributed presentations\n\n2026\n\n“Emergent-Gravity Hall Effect from quantum geometry” — APS Global Physics Summit 2026, Denver, CO, USA, Mar. 19. (Poster)\n“Theory of Magneto-elastic coupling in a ferromagnetic thin film mediated by dipolar interaction” — APS Global Physics Summit 2026, Denver, CO, USA, Mar. 18.\n“量子幾何による創発重力ホール効果” — Physical Society of Japan 2026 Spring Meeting, online, Mar. 23.\n“量子幾何に由来する光誘起磁化” — Physical Society of Japan 2026 Spring Meeting, online, Mar. 26.\n“Emergent-Gravity Hall Effect from quantum geometry” — IAS-APS Physical Review Workshop on Frontiers in Quantum Geometry and Correlation, HKUST, Hong Kong, Aug. 19. (Poster)\n“Magnetoelastic Waves in Ferromagnetic Thin Films Mediated by Dipolar Interactions” — SPICE workshop Elastically Driven Phases and Dynamics in Quantum Materials, Ingelheim, Germany, Sept. 1. (Poster)\n\n\n\n2025\n\n“Pure spin bulk photovoltaic effect in Altermagnets” — APS Global Physics Summit, Anaheim, USA, Mar. 17.\n“Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals” — International Workshop on Spintronics, San Cristobal, Galapagos, Ecuador, May 27 & 29. (Poster; Gold Poster Award)\n“交替磁性ワイル半金属におけるスピン円偏光ガルバノ効果の量子化” — Physical Society of Japan 80th Annual Meeting, Hiroshima, Japan, Sept. 19.\n“Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals” — Chimera International Conference 2025, San Sebastian, Spain, Sept. 30. (Poster)\n“Emergent-gravity Hall effect from quantum geometry” — ISSP International Workshop Quantum Transport Frontiers of Mesoscopic Physics, Kashiwa, Japan, Oct. 21. (Poster)\n\n\n\n2024\n\n“Shift current responses of a two-dimensional system approaching the Weyl semimetal phase” — 2024 American Physical Society March Meeting, Minneapolis, USA, Mar. 4.\n“2次元 Weyl 半金属極限におけるシフト電流応答の発散” — Physical Society of Japan 79th Annual Meeting, Hokkaido, Japan, Sept. 16.\n“Pure spin shift current generations in Altermagnets” — KiPAS International Workshop on Recent Advances in Orbitronics and Spintronics, Yokohama, Japan, Nov. 13. (Poster)\n“Quantization of Spin Circular Photogalvanic Effect in Altermagnetic Weyl Semimetals” — ISSP New Trends in Condensed Matter Theory, Kashiwa, Japan, Dec. 10. (Poster)\n\n\n\n2023\n\n“Polarization jumps across Weyl semimetal phase in two-dimensional materials” — 2023 American Physical Society March Meeting, Las Vegas, USA, Mar. 8.\n“二次元トポロジカル相転移における電気分極のジャンプ” — Physical Society of Japan 78th Annual Meeting, Miyagi, Japan, Sept. 19.\n\n\n\n2022\n\n“導体極限における電気分極のジャンプと表面電荷の振る舞い” — Physical Society of Japan 2022 Autumn Meeting, Tokyo, Japan, Sept. 12."
   },
   {
-    "objectID": "README_DRAFT.html",
-    "href": "README_DRAFT.html",
-    "title": "Website draft notes",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "This draft was prepared from the supplied short CV and full record, with the goal of a compact post-Ph.D. academic website.\n\n\n\nDate of birth\nPrivate residential address\nMobile phone number\nGPA\nScholarship monetary amounts\nUnrelated part-time employment\nHigh-school research/award\nMost undergraduate extracurricular activities\n\nThese can remain in a private master CV if needed, but they are not useful on a public postdoctoral research website.\n\n\n\n\nCurrent postdoctoral position at The University of Tokyo\nAdd the exact title, department/institute, group, and start/end dates.\nGermany / JSPS overseas position\nThe supplied files do not contain the host institution, formal fellowship title, or dates. Add them once fixed.\nJSPS DC1 end date\nThe source files list 2024–2027, while the Ph.D. is completed in 2026. Confirm the formal end date before publishing.\nEmergent-gravity Hall paper\nThe supplied files list arXiv:2507.18458 and state that the manuscript is under review. Update the status if it changes.\nAcademic profile links\nAdd ORCID, Google Scholar, and GitHub URLs.\nDOIs / publisher links\nThe supplied files do not contain DOI metadata. publications.bib therefore intentionally omits DOI fields.\nTalks page\ntalks.qmd is a selected record, not a transcription of every poster in Records.docx. Add a complete collapsible record only if desired.\n\n\n\n\nOnce the content is confirmed, add: - one professional photograph (optional), - one schematic/research figure per main research direction, - a downloadable PDF CV, - DOI links to publications, - ORCID / Google Scholar / GitHub icons."
+    "text": "My research focuses on theoretical condensed matter physics, particularly the roles of quantum geometry, topology, and symmetry in transport and optical phenomena. I use tight-binding models, symmetry analysis, and semiclassical theory to explore these phenomena, with a particular interest in nonlinear responses."
   },
   {
-    "objectID": "README_DRAFT.html#deliberately-omitted-from-the-public-site",
-    "href": "README_DRAFT.html#deliberately-omitted-from-the-public-site",
-    "title": "Website draft notes",
-    "section": "",
-    "text": "Date of birth\nPrivate residential address\nMobile phone number\nGPA\nScholarship monetary amounts\nUnrelated part-time employment\nHigh-school research/award\nMost undergraduate extracurricular activities\n\nThese can remain in a private master CV if needed, but they are not useful on a public postdoctoral research website."
+    "objectID": "research.html#altermagnets-and-optical-effects",
+    "href": "research.html#altermagnets-and-optical-effects",
+    "title": "Research",
+    "section": "Altermagnets and optical effects",
+    "text": "Altermagnets and optical effects\nI investigate optical responses in altermagnets, with a focus on light-induced spin currents. Combining symmetry analysis with tight-binding models, my collaborators and I predict a spin-current analog of the quantized circular photogalvanic effect in altermagnetic Weyl semimetals. We identify symmetry conditions that allow this quantized response, providing a route to generating pure spin currents with circularly polarized light [1]."
   },
   {
-    "objectID": "README_DRAFT.html#items-to-confirm-before-publishing",
-    "href": "README_DRAFT.html#items-to-confirm-before-publishing",
-    "title": "Website draft notes",
-    "section": "",
-    "text": "Current postdoctoral position at The University of Tokyo\nAdd the exact title, department/institute, group, and start/end dates.\nGermany / JSPS overseas position\nThe supplied files do not contain the host institution, formal fellowship title, or dates. Add them once fixed.\nJSPS DC1 end date\nThe source files list 2024–2027, while the Ph.D. is completed in 2026. Confirm the formal end date before publishing.\nEmergent-gravity Hall paper\nThe supplied files list arXiv:2507.18458 and state that the manuscript is under review. Update the status if it changes.\nAcademic profile links\nAdd ORCID, Google Scholar, and GitHub URLs.\nDOIs / publisher links\nThe supplied files do not contain DOI metadata. publications.bib therefore intentionally omits DOI fields.\nTalks page\ntalks.qmd is a selected record, not a transcription of every poster in Records.docx. Add a complete collapsible record only if desired."
+    "objectID": "research.html#weyl-semimetals",
+    "href": "research.html#weyl-semimetals",
+    "title": "Research",
+    "section": "Weyl semimetals",
+    "text": "Weyl semimetals\nI study discontinuities in electric polarization between insulating states on opposite sides of a two-dimensional Weyl semimetal limit. My collaborators and I show that polarization jumps between topologically trivial insulators can be expressed in terms of the “Weyl dipole,” which characterizes the distribution of Weyl nodes and their monopole charges in momentum space [2]. We extend this analysis to topological phase transitions: the Weyl-dipole description applies to transitions in which the \\(\\mathbb{Z}_2\\) invariant changes, whereas transitions that change the Chern number require a formulation involving Weyl-node positions relative to a reference point in momentum space [3]."
   },
   {
-    "objectID": "README_DRAFT.html#suggested-next-refinement",
-    "href": "README_DRAFT.html#suggested-next-refinement",
-    "title": "Website draft notes",
-    "section": "",
-    "text": "Once the content is confirmed, add: - one professional photograph (optional), - one schematic/research figure per main research direction, - a downloadable PDF CV, - DOI links to publications, - ORCID / Google Scholar / GitHub icons."
+    "objectID": "research.html#quantum-geometry",
+    "href": "research.html#quantum-geometry",
+    "title": "Research",
+    "section": "Quantum geometry",
+    "text": "Quantum geometry\nI explore how the geometry of electronic states shapes transport phenomena. Semiclassical wave-packet theory provides an intuitive framework for connecting this geometry to electron motion. By incorporating leading nonadiabatic corrections, my collaborator and I derive gravity-like terms in the equations of motion, described by Christoffel symbols constructed from the energy-weighted quantum metric. These terms can produce a transverse electrical response that we call the “emergent-gravity Hall effect” [4]."
+  },
+  {
+    "objectID": "research.html#magnetoelastic-waves",
+    "href": "research.html#magnetoelastic-waves",
+    "title": "Research",
+    "section": "Magnetoelastic waves",
+    "text": "Magnetoelastic waves\nI also investigate coupled magnetic and elastic excitations in ferromagnetic thin films, focusing on magnetostatic waves—long-wavelength spin waves governed primarily by magnetic dipolar interactions. My collaborators and I develop a theoretical framework that accounts for how elastic deformations modify dipolar fields. This framework describes magnetoelastic coupling mediated by long-range dipolar interactions and predicts hybridization between magnetostatic waves and Lamb waves, the elastic modes of a thin plate [5]."
+  },
+  {
+    "objectID": "research.html#references",
+    "href": "research.html#references",
+    "title": "Research",
+    "section": "References",
+    "text": "References\n\n\n1. H. Yoshida, J. Priessnitz, L. Šmejkal, and S. Murakami, “Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals,” Phys. Rev. Lett. 136, 096701 (2026)\n\n\n2. H. Yoshida, T. Zhang, and S. Murakami, “Polarization jumps by breaking symmetries of two-dimensional Weyl semimetals,” Phys. Rev. B 107, 035122 (2023)\n\n\n3. H. Yoshida, T. Zhang, and S. Murakami, “Polarization jumps across topological phase transitions in two-dimensional systems,” Phys. Rev. B 108, 075160 (2023)\n\n\n4. H. Yoshida and T. Yokoyama, “Emergent-gravity hall effect from quantum geometry,” arXiv:2507.18458, Under review (2025)\n\n\n5. H. Yoshida, R. Kono, M. Fujimoto, M. Asano, D. Hatanaka, K. Yamamoto, and S. Murakami, “Magnetoelastic waves in ferromagnetic thin films mediated by dipolar interactions,” Jpn. J. Appl. Phys. 65, 110903 (2026)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hiroki Yoshida （吉田 拓暉）",
     "section": "",
-    "text": "I study quantum-geometric and symmetry-protected phenomena in topological and altermagnetic systems. My research focuses on nonlinear transport, Berry-phase effects, and quantization mechanisms in Weyl semimetals, using tight-binding modeling and symmetry-based analysis.\nResearch interests: quantum geometry · nonlinear transport · topological phases · altermagnetism · magnetoelastic phenomena\nResearch · Publications · CV · Contact"
+    "text": "Theoretical condensed matter physicist\nI study quantum-geometric and symmetry-protected phenomena in topological and altermagnetic systems. My research focuses on nonlinear transport, Berry-phase effects, and quantization mechanisms in Weyl semimetals, using tight-binding modeling and symmetry-based analysis.\nResearch interests: quantum geometry · nonlinear transport · topological phases · altermagnetism · magnetoelastic phenomena\nResearch · Publications · CV · Contact"
   },
   {
-    "objectID": "index.html#theoretical-condensed-matter-physicist",
-    "href": "index.html#theoretical-condensed-matter-physicist",
-    "title": "Hiroki Yoshida （吉田 拓暉）",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "I study quantum-geometric and symmetry-protected phenomena in topological and altermagnetic systems. My research focuses on nonlinear transport, Berry-phase effects, and quantization mechanisms in Weyl semimetals, using tight-binding modeling and symmetry-based analysis.\nResearch interests: quantum geometry · nonlinear transport · topological phases · altermagnetism · magnetoelastic phenomena\nResearch · Publications · CV · Contact"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "[hiroki[at]hirokiyoshida.com"
-  },
-  {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "",
-    "text": "[hiroki[at]hirokiyoshida.com"
-  },
-  {
-    "objectID": "contact.html#academic-profiles",
-    "href": "contact.html#academic-profiles",
-    "title": "Contact",
-    "section": "Academic profiles",
-    "text": "Academic profiles\n\nORCID\nGoogle Scholar\nGitHub\nresearchmap"
-  },
-  {
-    "objectID": "contact.html#affiliation",
-    "href": "contact.html#affiliation",
-    "title": "Contact",
-    "section": "Affiliation",
-    "text": "Affiliation\nDepartment of Applied Physics\nGraduate School of Engineering\nThe University of Tokyo\n7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan\nFor research inquiries, collaboration, or seminar invitations, please contact me by email."
+    "text": "1. H. Yoshida and T. Yokoyama, “Emergent-gravity hall effect from quantum geometry,” arXiv:2507.18458, Under review (2025)\n\n\n2. H. Yoshida, J. Priessnitz, L. Šmejkal, and S. Murakami, “Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals,” Phys. Rev. Lett. 136, 096701 (2026)\n\n\n3. H. Yoshida and T. Yokoyama, “Light-induced magnetization by quantum geometry,” Phys. Rev. B 114, 094430 (2026)\n\n\n4. H. Yoshida, R. Kono, M. Fujimoto, M. Asano, D. Hatanaka, K. Yamamoto, and S. Murakami, “Magnetoelastic waves in ferromagnetic thin films mediated by dipolar interactions,” Jpn. J. Appl. Phys. 65, 110903 (2026)\n\n\n5. H. Yoshida and S. Murakami, “Diverging shift current responses in the gapless limit of two-dimensional systems,” Phys. Rev. B 111, 155402 (2025)\n\n\n6. H. Yoshida, T. Zhang, and S. Murakami, “Polarization jumps across topological phase transitions in two-dimensional systems,” Phys. Rev. B 108, 075160 (2023)\n\n\n7. H. Yoshida, T. Zhang, and S. Murakami, “Polarization jumps by breaking symmetries of two-dimensional Weyl semimetals,” Phys. Rev. B 107, 035122 (2023)\n\n\n8. H. Yoshida and K. Takahashi, “Dynamical Lee–Yang zeros for continuous-time and discrete-time stochastic processes,” Phys. Rev. E 105, 024133 (2022)"
   },
   {
     "objectID": "cv.html",
@@ -109,7 +123,7 @@
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\n\nPh.D. in Physics, Institute of Science Tokyo (formerly Tokyo Institute of Technology), Tokyo, Japan, September 2026.\nM.Sc. in Physics, Tokyo Institute of Technology, Tokyo, Japan, September 2023.\nB.Sc. in Physics, Tokyo Institute of Technology, Tokyo, Japan, April 2022."
+    "text": "Education\n\nPh.D. in Physics, Institute of Science Tokyo (formerly Tokyo Institute of Technology), Tokyo, Japan, September 2026.\nM.Sc. in Physics, Tokyo Institute of Technology, Tokyo, Japan, September 2023.\nB.Sc. in Physics, Tokyo Institute of Technology, Tokyo, Japan, March 2022."
   },
   {
     "objectID": "cv.html#research-experience",
@@ -123,7 +137,7 @@
     "href": "cv.html#fellowships-and-scholarships",
     "title": "CV",
     "section": "Fellowships and scholarships",
-    "text": "Fellowships and scholarships\n\nJSPS Research Fellowship for Young Scientists (PD) , Oct. 2026–Mar. 2027.\nJSPS Research Fellowship for Young Scientists (DC1), Apr. 2024–Sept. 2026.\n\nThe Moritani Scholarship Foundation, Apr. 2024–Sept. 2026.\nNakayama Foundation, Apr. 2022–Mar. 2024."
+    "text": "Fellowships and scholarships\n\nJSPS Research Fellowship for Young Scientists (PD), Oct. 2026–Mar. 2027 (scheduled to begin in October 2026).\nJSPS Research Fellowship for Young Scientists (DC1), Apr. 2024–Sept. 2026.\n\nThe Moritani Scholarship Foundation, Apr. 2024–Sept. 2026.\nNakayama Foundation, Apr. 2022–Mar. 2024."
   },
   {
     "objectID": "cv.html#awards",
@@ -152,68 +166,5 @@
     "title": "CV",
     "section": "Publications and talks",
     "text": "Publications and talks\nSee Publications and Talks."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "1. H. Yoshida and T. Yokoyama, “Emergent-gravity hall effect from quantum geometry,” arXiv:2507.18458, Under review (2025)\n\n\n2. H. Yoshida, J. Priessnitz, L. Šmejkal, and S. Murakami, “Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals,” Phys. Rev. Lett. 136, 096701 (2026)\n\n\n3. H. Yoshida and T. Yokoyama, “Light-induced magnetization by quantum geometry,” Phys. Rev. B 114, 094430 (2026)\n\n\n4. H. Yoshida, R. Kono, M. Fujimoto, M. Asano, D. Hatanaka, K. Yamamoto, and S. Murakami, “Magnetoelastic waves in ferromagnetic thin films mediated by dipolar interactions,” Jpn. J. Appl. Phys. 65, 110903 (2026)\n\n\n5. H. Yoshida and S. Murakami, “Diverging shift current responses in the gapless limit of two-dimensional systems,” Phys. Rev. B 111, 155402 (2025)\n\n\n6. H. Yoshida, T. Zhang, and S. Murakami, “Polarization jumps across topological phase transitions in two-dimensional systems,” Phys. Rev. B 108, 075160 (2023)\n\n\n7. H. Yoshida, T. Zhang, and S. Murakami, “Polarization jumps by breaking symmetries of two-dimensional Weyl semimetals,” Phys. Rev. B 107, 035122 (2023)\n\n\n8. H. Yoshida and K. Takahashi, “Dynamical Lee–Yang zeros for continuous-time and discrete-time stochastic processes,” Phys. Rev. E 105, 024133 (2022)"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research is in theoretical condensed matter physics, with an emphasis on quantum geometry, topology, symmetry, and nonlinear response phenomena. I mainly use tight-binding models and symmetry-based analysis to identify robust transport and optical effects."
-  },
-  {
-    "objectID": "research.html#quantum-geometry-and-nonlinear-responses",
-    "href": "research.html#quantum-geometry-and-nonlinear-responses",
-    "title": "Research",
-    "section": "Quantum geometry and nonlinear responses",
-    "text": "Quantum geometry and nonlinear responses\nI study how geometric properties of Bloch states appear in measurable nonlinear responses. This includes the divergence of shift-current responses near a two-dimensional Weyl-semimetal limit [4], the emergent-gravity Hall effect associated with quantum geometry [5], and light-induced magnetization generated by quantum-geometric effects [6]."
-  },
-  {
-    "objectID": "research.html#altermagnets-and-spin-photovoltaic-effects",
-    "href": "research.html#altermagnets-and-spin-photovoltaic-effects",
-    "title": "Research",
-    "section": "Altermagnets and spin photovoltaic effects",
-    "text": "Altermagnets and spin photovoltaic effects\nA major recent direction is nonlinear spin transport in altermagnetic systems. In particular, I developed a theoretical framework for a quantized spin-current analogue of the circular photogalvanic effect in altermagnetic Weyl semimetals, combining symmetry classification with tight-binding modeling [4]."
-  },
-  {
-    "objectID": "research.html#two-dimensional-weyl-semimetal-limits",
-    "href": "research.html#two-dimensional-weyl-semimetal-limits",
-    "title": "Research",
-    "section": "Two-dimensional Weyl semimetal limits",
-    "text": "Two-dimensional Weyl semimetal limits\nI have studied discontinuous changes of electric polarization around topological phase transitions in two-dimensional systems, including symmetry breaking in two-dimensional Weyl semimetals [5] and polarization jumps across topological phase transitions [6]."
-  },
-  {
-    "objectID": "research.html#magnetoelastic-waves",
-    "href": "research.html#magnetoelastic-waves",
-    "title": "Research",
-    "section": "Magnetoelastic waves",
-    "text": "Magnetoelastic waves\nI also work on coupled magnetic and elastic excitations in ferromagnetic thin films, including magnetoelastic waves mediated by dipolar interactions [7]."
-  },
-  {
-    "objectID": "research.html#references",
-    "href": "research.html#references",
-    "title": "Research",
-    "section": "References",
-    "text": "References\n\n\n1. H. Yoshida, J. Priessnitz, L. Šmejkal, and S. Murakami, “Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals,” Phys. Rev. Lett. 136, 096701 (2026)\n\n\n2. H. Yoshida, T. Zhang, and S. Murakami, “Polarization jumps by breaking symmetries of two-dimensional Weyl semimetals,” Phys. Rev. B 107, 035122 (2023)\n\n\n3. H. Yoshida, T. Zhang, and S. Murakami, “Polarization jumps across topological phase transitions in two-dimensional systems,” Phys. Rev. B 108, 075160 (2023)\n\n\n4. H. Yoshida and S. Murakami, “Diverging shift current responses in the gapless limit of two-dimensional systems,” Phys. Rev. B 111, 155402 (2025)\n\n\n5. H. Yoshida and T. Yokoyama, “Emergent-gravity hall effect from quantum geometry,” arXiv:2507.18458, Under review (2025)\n\n\n6. H. Yoshida and T. Yokoyama, “Light-induced magnetization by quantum geometry,” Phys. Rev. B 114, 094430 (2026)\n\n\n7. H. Yoshida, R. Kono, M. Fujimoto, M. Asano, D. Hatanaka, K. Yamamoto, and S. Murakami, “Magnetoelastic waves in ferromagnetic thin films mediated by dipolar interactions,” Jpn. J. Appl. Phys. 65, 110903 (2026)"
-  },
-  {
-    "objectID": "research.html#altermagnets-and-optical-effects",
-    "href": "research.html#altermagnets-and-optical-effects",
-    "title": "Research",
-    "section": "Altermagnets and optical effects",
-    "text": "Altermagnets and optical effects\nMy research explores distinctive optical responses in altermagnets, with a particular focus on nonlinear spin transport. By combining symmetry-based analysis with tight-binding models, I demonstrate that Weyl altermagnets can realize a quantized spin-current counterpart of the circular photogalvanic effect—a hallmark of conventional Weyl semimetals [1]."
-  },
-  {
-    "objectID": "research.html#weyl-semimetals",
-    "href": "research.html#weyl-semimetals",
-    "title": "Research",
-    "section": "Weyl semimetals",
-    "text": "Weyl semimetals\nI have studied discontinuous jumps of electric polarization across the two-dimensional Weyl semimetal limit. The size of the jump can be expressed by concise formulas using “Weyl dipole” in normal insulator to normal insulator transitions [2] and across topological phase transitions [3]."
   }
 ]
