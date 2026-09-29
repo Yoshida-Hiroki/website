@@ -4,6 +4,8 @@ title: "Talks"
 
 ## Invited seminars
 
+- **"Emergent-Gravity Hall Effect from Quantum Geometry"** — Seminar at PGI-1, Forschungszentrum Jülich GmbH, Germany, Sept. 10, 2026.
+- **"Quantized Spin CPGE in Altermagnetic Weyl Semimetals"** — INSPIRE seminar, JGU Mainz, Germany, Sept. 8, 2026.
 - **“交替磁性ワイル半金属のトポロジー”** — Topological Condensed Matter Seminar, Osaka University, Japan, Nov. 27, 2025.
 - **“Symmetry and topology of altermagnetic Weyl semimetals: quantization of spin circular photogalvanic effect”** — ST-group seminar, Nagoya University, Japan, Feb. 26, 2025.
 - **“2次元 Weyl 半金属極限における電気分極とシフト電流”** — Department of Applied Physics seminar, Tokyo University of Science, Japan, Oct. 17, 2024.

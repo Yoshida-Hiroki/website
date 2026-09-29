@@ -6,7 +6,7 @@ page-layout: full
 ---
 
 ::: {.hero}
-# Hiroki Yoshida （吉田　拓暉）
+# Hiroki Yoshida （吉田 拓暉）
 
 ## Theoretical condensed matter physicist
 
