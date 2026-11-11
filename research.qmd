@@ -22,7 +22,7 @@ I study discontinuities in electric polarization between insulating states on op
 
 ## Quantum geometry
 
-I explore how the geometry of electronic states shapes transport phenomena. Semiclassical wave-packet theory provides an intuitive framework for connecting this geometry to electron motion. By incorporating leading nonadiabatic corrections, my collaborator and I derive gravity-like terms in the equations of motion, described by Christoffel symbols constructed from the energy-weighted quantum metric. These terms can produce a transverse electrical response that we call the "emergent-gravity Hall effect" [@yoshida2025emergent].
+I explore how the geometry of electronic states shapes transport phenomena. Semiclassical wave-packet theory provides an intuitive framework for connecting this geometry to electron motion. By incorporating leading nonadiabatic corrections, my collaborator and I derive gravity-like terms in the equations of motion, described by Christoffel symbols constructed from the energy-weighted quantum metric. These terms can produce a transverse electrical response that we call the "emergent-gravity Hall effect" [@yoshidaEmergentGravityHallEffect2026].
 
 ::: {.research-figure}
 ![](./figures/EOM.png){fig-alt="Quantum-geometric contributions to the equations of motion of an electron wave packet."}

@@ -1,0 +1,298 @@
+# Talk list used by talks.qmd and cv-full.qmd (via filters/talks.lua).
+#
+#   title     : talk title (Markdown)
+#   event     : conference / seminar (Markdown)
+#   place     : location
+#   date      : start date, YYYY-MM-DD (used for sorting)
+#   date-text : displayed date (optional; default is generated from date)
+#   type      : invited | oral | poster
+#   selected  : true to list on the Talks page (invited talks are always listed)
+#   award     : award name (optional)
+talks:
+
+# ------------------------------ Invited ------------------------------
+- title: "Emergent-Gravity Hall Effect from Quantum Geometry"
+  event: "Seminar at PGI-1, Forschungszentrum Jülich GmbH"
+  place: "Germany"
+  date: 2026-09-10
+  type: invited
+
+- title: "Quantized Spin CPGE in Altermagnetic Weyl Semimetals"
+  event: "INSPIRE seminar, JGU Mainz"
+  place: "Germany"
+  date: 2026-09-08
+  type: invited
+
+- title: "交替磁性ワイル半金属のトポロジー"
+  event: "Topological Condensed Matter Seminar, Osaka University"
+  place: "Japan"
+  date: 2025-11-27
+  type: invited
+
+- title: "Symmetry and topology of altermagnetic Weyl semimetals: quantization of spin circular photogalvanic effect"
+  event: "ST-group seminar, Nagoya University"
+  place: "Japan"
+  date: 2025-02-26
+  type: invited
+
+- title: "2次元 Weyl 半金属極限における電気分極とシフト電流"
+  event: "Department of Applied Physics seminar, Tokyo University of Science"
+  place: "Japan"
+  date: 2024-10-17
+  type: invited
+
+# ---------------------------- Contributed ----------------------------
+# 2026
+- title: "Magnetoelastic Waves in Ferromagnetic Thin Films Mediated by Dipolar Interactions"
+  event: "SPICE workshop *Elastically Driven Phases and Dynamics in Quantum Materials*"
+  place: "Ingelheim, Germany"
+  date: 2026-09-01
+  type: poster
+  selected: true
+
+- title: "Emergent-Gravity Hall Effect from quantum geometry"
+  event: "IAS-APS Physical Review Workshop on Frontiers in Quantum Geometry and Correlation"
+  place: "HKUST, Hong Kong"
+  date: 2026-08-19
+  type: poster
+  selected: true
+
+- title: "Magnetoelastic Waves in Ferromagnetic Thin Films Mediated by Dipolar Interactions"
+  event: "Area meeting of “キメラ準粒子が切り拓く新物性科学”"
+  place: "Osaka, Japan"
+  date: 2026-05-15
+  type: poster
+  award: "Outstanding Poster Presentation Award"
+  selected: true
+
+- title: "量子幾何に由来する光誘起磁化"
+  event: "Physical Society of Japan 2026 Spring Meeting"
+  place: "Online"
+  date: 2026-03-26
+  type: oral
+  selected: true
+
+- title: "量子幾何による創発重力ホール効果"
+  event: "Physical Society of Japan 2026 Spring Meeting"
+  place: "Online"
+  date: 2026-03-23
+  type: oral
+  selected: true
+
+- title: "Emergent-Gravity Hall Effect from quantum geometry"
+  event: "APS Global Physics Summit 2026"
+  place: "Denver, CO, USA"
+  date: 2026-03-19
+  type: poster
+  selected: true
+
+- title: "Theory of Magneto-elastic coupling in a ferromagnetic thin film mediated by dipolar interaction"
+  event: "APS Global Physics Summit 2026"
+  place: "Denver, CO, USA"
+  date: 2026-03-18
+  type: oral
+  selected: true
+
+- title: "Theory of Magneto-elastic coupling in a ferromagnetic thin film mediated by dipolar interaction"
+  event: "Iwate Spintronics School 2026"
+  place: "Iwate, Japan"
+  date: 2026-03-05
+  date-text: "Mar. 5 & 6"
+  type: poster
+
+- title: "Theory of Magneto-elastic coupling in a ferromagnetic thin film mediated by dipolar interaction"
+  event: "Iwate Spintronics School 2026, Young Researcher's Gathering"
+  place: "Iwate, Japan"
+  date: 2026-03-02
+  type: oral
+
+- title: "Emergent-gravity Hall effect from quantum geometry"
+  event: "ISSP *New Frontiers of Geometry and Topology*"
+  place: "Chiba, Japan"
+  date: 2026-01-28
+  type: poster
+
+- title: "Magnetoelastic Waves in Ferromagnetic Thin Films Mediated by Dipolar Interactions"
+  event: "学術変革領域(A)「キメラ準粒子」A01 班研究会「理論が拓くキメラ準粒子研究のフロンティア」"
+  place: "Shizuoka, Japan"
+  date: "2026-11-05"
+  type: oral
+  selected: true
+
+- title: "Theory of Magnetoelastic coupling in ferromagnetic thin films mediated by dipolar interactions"
+  event: "Spin Mechanics 9"
+  place: "Kyoto, Japan"
+  date: "2026-10-05"
+  type: poster
+
+- title: "Magnetoelastic Waves in Ferromagnetic Thin Films Mediated by Dipolar Interactions"
+  event: "学術変革領域(A)「キメラ準粒子」A01 班研究会「理論が拓くキメラ準粒子研究のフロンティア」"
+  place: "Shizuoka, Japan"
+  date: "2026-11-06"
+  type: poster
+
+# 2025
+- title: "Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals"
+  event: "キメラ準粒子・分野融合研究会"
+  place: "Kyushu University, Japan"
+  date: 2025-12-25
+  type: poster
+
+- title: "Emergent-gravity Hall effect from quantum geometry"
+  event: "ISSP International Workshop *Quantum Transport Frontiers of Mesoscopic Physics*"
+  place: "Kashiwa, Japan"
+  date: 2025-10-21
+  type: poster
+  selected: true
+
+- title: "Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals"
+  event: "Chimera International Conference 2025"
+  place: "San Sebastian, Spain"
+  date: 2025-09-30
+  type: poster
+  selected: true
+
+- title: "交替磁性ワイル半金属におけるスピン円偏光ガルバノ効果の量子化"
+  event: "Physical Society of Japan 80th Annual Meeting"
+  place: "Hiroshima, Japan"
+  date: 2025-09-19
+  type: oral
+  selected: true
+
+- title: "Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals"
+  event: "International Workshop on Spintronics"
+  place: "San Cristobal, Galapagos, Ecuador"
+  date: 2025-05-27
+  date-text: "May 27 & 29"
+  type: poster
+  award: "Gold Poster Award"
+  selected: true
+
+- title: "Pure spin bulk photovoltaic effect in Altermagnets"
+  event: "APS Global Physics Summit"
+  place: "Anaheim, USA"
+  date: 2025-03-17
+  type: oral
+  selected: true
+
+- title: "交代磁性ワイル半金属における円偏光スピン光ガルバノ効果の量子化"
+  event: "72nd JSAP Spring Meeting"
+  place: "Chiba, Japan"
+  date: 2025-03-14
+  type: poster
+
+- title: "Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals"
+  event: "Iwate Spintronics School 2025 Winter"
+  place: "Iwate, Japan"
+  date: 2025-02-20
+  type: poster
+
+# 2024
+- title: "Quantization of Spin Circular Photogalvanic Effect in Altermagnetic Weyl Semimetals"
+  event: "RIKEN CEMS Symposium on Quantum Information and Spintronics 2024"
+  place: "Akihabara, Tokyo, Japan"
+  date: 2024-12-11
+  type: poster
+
+- title: "Quantization of Spin Circular Photogalvanic Effect in Altermagnetic Weyl Semimetals"
+  event: "ISSP *New Trends in Condensed Matter Theory*"
+  place: "Kashiwa, Japan"
+  date: 2024-12-10
+  type: poster
+  selected: true
+
+- title: "交代磁性体における円偏光スピン光ガルバノ効果の量子化"
+  event: "18th Interdisciplinary Research Group on Physical Properties Science (第18回物性科学領域横断研究会)"
+  place: "Hyogo, Japan"
+  date: 2024-11-27
+  type: poster
+  award: "Young Investigator Award"
+  selected: true
+
+- title: "Pure spin shift current generations in Altermagnets"
+  event: "KiPAS International Workshop on Recent Advances in Orbitronics and Spintronics"
+  place: "Yokohama, Japan"
+  date: 2024-11-13
+  type: poster
+  selected: true
+
+- title: "Bulk photovoltaic effects in Weyl semimetals"
+  event: "Highlights on Condensed Matter Physics"
+  place: "Saitama, Japan"
+  date: 2024-11-02
+  type: poster
+
+- title: "2次元 Weyl 半金属極限におけるシフト電流応答の発散"
+  event: "Physical Society of Japan 79th Annual Meeting"
+  place: "Hokkaido, Japan"
+  date: 2024-09-16
+  type: oral
+  selected: true
+
+- title: "Shift current responses of a two-dimensional system approaching the Weyl semimetal phase"
+  event: "New Perspectives in Spintronics and Quantum Transport 2024"
+  place: "Ishikawa, Japan"
+  date: 2024-06-08
+  type: poster
+
+- title: "Shift current responses of a two-dimensional system approaching the Weyl semimetal phase"
+  event: "2024 American Physical Society March Meeting"
+  place: "Minneapolis, USA"
+  date: 2024-03-04
+  type: oral
+  selected: true
+
+- title: "Shift current responses of a two-dimensional system approaching the Weyl semimetal phase"
+  event: "RIKEN CEMS Symposium on Emergent Quantum Materials 2024"
+  place: "Tokyo, Japan"
+  date: 2024-02-21
+  type: poster
+
+- title: "Shift current responses of a two-dimensional system approaching the Weyl semimetal phase"
+  event: "International Symposium on Quantum Electronics"
+  place: "Tokyo, Japan"
+  date: 2024-02-15
+  type: poster
+
+- title: "Shift current responses of a two-dimensional system approaching the Weyl semimetal phase"
+  event: "Topological Electronics and Bosonics: from Concepts to Devices"
+  place: "Aussois, France"
+  date: 2024-01-29
+  date-text: "Jan. 29 – Feb. 2"
+  type: poster
+
+- title: "Shift current responses of a two-dimensional system approaching the Weyl semimetal phase"
+  event: "Topological and Holographic Quantum Matter School and Conference"
+  place: "Santiago, Chile"
+  date: 2024-01-16
+  type: poster
+
+# 2023
+- title: "二次元トポロジカル相転移における電気分極のジャンプ"
+  event: "Physical Society of Japan 78th Annual Meeting"
+  place: "Miyagi, Japan"
+  date: 2023-09-19
+  type: oral
+  award: "Student Presentation Award"
+  selected: true
+
+- title: "Existence and termination of edge states in non-Hermitian systems"
+  event: "Physics of Open Systems and Beyond"
+  place: "Hokkaido, Japan"
+  date: 2023-08-20
+  type: poster
+
+- title: "Polarization jumps across Weyl semimetal phase in two-dimensional materials"
+  event: "2023 American Physical Society March Meeting"
+  place: "Las Vegas, USA"
+  date: 2023-03-08
+  type: oral
+  selected: true
+
+# 2022
+- title: "導体極限における電気分極のジャンプと表面電荷の振る舞い"
+  event: "Physical Society of Japan 2022 Autumn Meeting"
+  place: "Tokyo, Japan"
+  date: 2022-09-12
+  type: oral
+  selected: true

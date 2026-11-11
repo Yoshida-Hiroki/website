@@ -2,6 +2,8 @@
 title: "CV"
 ---
 
+**Full CV** (all publications and presentations): [PDF](cv-full.pdf)
+
 ## Position
 
 東京大学特別研究員
@@ -61,4 +63,4 @@ Teaching assistant / student-consultant experience includes:
 
 ## Publications and talks
 
-See [Publications](publications.qmd) and [Talks](talks.qmd).
+See [Publications](publications.qmd) and [Talks](talks.qmd). The complete lists are in the [full CV (PDF)](cv-full.pdf).
